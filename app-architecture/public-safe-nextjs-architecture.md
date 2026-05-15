@@ -50,9 +50,9 @@ The architecture is intended to demonstrate review discipline:
 
 | Review gate | Check | Result posture |
 | --- | --- | --- |
-| Boundary review | Confirms synthetic content and no private source | Required before public creation |
-| Ownership review | Separates product, client, personal proof, and app ownership | Required before public creation |
-| AI-assisted delivery review | Confirms scoped task, validation, and human approval | Required before public creation |
+| Boundary review | Confirms synthetic content and no private source | Required before routing or release |
+| Ownership review | Separates product, client, personal proof, and app ownership | Required before routing or release |
+| AI-assisted delivery review | Confirms scoped task, validation, and human approval | Required before routing or release |
 | Claim review | Blocks live app, active customer, deployment, release, and proof-completion claims | Required before publication |
 
 ## Lint / Typecheck / Build Validation Method
@@ -90,7 +90,7 @@ flowchart TD
   Delivery --> Review["Review and validation workflow"]
   Review --> Checks["Lint / typecheck / build validation method"]
   Checks --> DeployBoundary["Deployment assumption boundary"]
-  DeployBoundary --> Human["Human review before public creation or routing"]
+  DeployBoundary --> Human["Human review before routing or release"]
 ```
 
 ## Validation Questions

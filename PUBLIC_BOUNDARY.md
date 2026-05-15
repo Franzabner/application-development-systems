@@ -1,6 +1,6 @@
 # Public Boundary
 
-This local-only scaffold contains synthetic public-safe application-development documentation only.
+This public scaffold contains synthetic public-safe application-development documentation only.
 
 Held out:
 
@@ -9,5 +9,4 @@ Held out:
 - customer data, private source, unreleased product internals, private design systems, private logs, and internal prompts;
 - client-owned app confusion, production readiness claims, proof-completion claims, and internal company product names.
 
-Any future public creation requires human review, validator rerun, clean status, empty remotes before adding an approved remote, and separate routing patches.
-
+Any future release, routing, metadata expansion, or status expansion requires human review, validator rerun, clean status, and separate approved patches.

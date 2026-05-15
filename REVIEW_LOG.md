@@ -2,5 +2,5 @@
 
 | Date | Item | Status | Notes |
 | --- | --- | --- | --- |
-| 2026-05-15 | Local-only scaffold | scaffolded | No GitHub repo, no remote, no push, no publish, no metadata changes. |
-| 2026-05-15 | First synthetic artifact | scaffolded | Completed `app-architecture/public-safe-nextjs-architecture.md`; still private/not-public and not released. |
+| 2026-05-15 | Public scaffold publication | scaffolded | Public GitHub repo is a published scaffold; release, profile routing, and proof-stack routing remain planned. |
+| 2026-05-15 | First synthetic artifact | scaffolded | Completed `app-architecture/public-safe-nextjs-architecture.md`; published artifact is scaffolded and not released. |

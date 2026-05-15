@@ -5,5 +5,4 @@ Status: scaffolded
 - Boundary review.
 - Claim review.
 - Lint/typecheck/build validation where code exists.
-- Human approval before public creation, publication, metadata, or routing changes.
-
+- Human approval before routing, metadata, publication expansion, or release changes.

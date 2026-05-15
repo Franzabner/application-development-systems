@@ -1,12 +1,12 @@
 # Application Development Systems
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`application-development-systems` is a Phase 7 local-only scaffold for public-safe application architecture and AI-assisted software delivery discipline.
+`application-development-systems` is a Phase 7 public scaffold for public-safe application architecture and AI-assisted software delivery discipline.
 
 ## What This Repo Is Not
 
@@ -17,12 +17,12 @@ This repo is not a live app, active customer project, deployed software surface,
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `app-architecture/public-safe-nextjs-architecture.md` completed as scaffolded synthetic artifact |
-| Published artifact | private/not-public |
-| Released artifact | not released |
+| Published artifact | scaffolded |
+| Released artifact | private/not-public or not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -61,9 +61,9 @@ Run `scripts/validate-public-boundary.sh`, the plan-listed boundary/status `rg` 
 
 This repo contains public-safe application-development architecture and delivery discipline only. It must not contain live apps, active customer claims, deployed software claims, released software claims, production endpoints, credentials, secrets, customer data, private source, unreleased product internals, private design systems, private logs, private prompts, live tool tokens, client-owned app confusion, production secrets, or internal company product names.
 
-## Links Back After Public Creation
+## Links Back After Public Scaffold Publication
 
-Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches after public creation approval.
+Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches.
 
 ## First Build Task
 
