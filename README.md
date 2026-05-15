@@ -20,7 +20,7 @@ This repo is not a live app, active customer project, deployed software surface,
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
-| First artifact | `app-architecture/public-safe-nextjs-architecture.md` scaffolded |
+| First artifact | `app-architecture/public-safe-nextjs-architecture.md` completed as scaffolded synthetic artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -67,5 +67,4 @@ Profile routing and proof-stack routing are planned only. Any links from `Franza
 
 ## First Build Task
 
-Complete `app-architecture/public-safe-nextjs-architecture.md` with a synthetic app context, ownership boundary, AI-assisted delivery workflow, validation plan, Mermaid diagram, proof limits, and public/private/sealed checklist.
-
+First artifact completed as scaffolded: `app-architecture/public-safe-nextjs-architecture.md` covers synthetic app context, Next.js / TypeScript / Tailwind / shadcn/ui structure, ownership boundary, AI-assisted delivery workflow, validation plan, Mermaid diagram, proof limits, and public/private/sealed checklist.
