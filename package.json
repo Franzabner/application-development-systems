@@ -1,0 +1,10 @@
+{
+  "name": "application-development-systems",
+  "private": true,
+  "version": "0.0.0-scaffold",
+  "scripts": {
+    "validate:boundary": "bash scripts/validate-public-boundary.sh",
+    "validate:static": "bash scripts/run-static-validation-placeholder.sh"
+  }
+}
+
